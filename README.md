@@ -2,6 +2,8 @@
 
 ![avatar](avatar.jpg)
 
+[Мои контакты и портфолио](https://taplink.cc/ripodgor)
+
 ## Тестировщик ПО     
 
 ### Обо мне
